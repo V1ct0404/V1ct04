@@ -6,7 +6,7 @@ Occupation: Penstester/Bug Hunter
 
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ferramentas
 
 />
 <img 
