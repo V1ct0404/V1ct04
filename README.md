@@ -34,6 +34,6 @@ Occupation: Penstester/Bug Hunter
 
 
   
-![snake gif](https://github.com/Gusbtc/Gusbtc/blob/output/github-snake-dark.svg)
+
 </div>
 
